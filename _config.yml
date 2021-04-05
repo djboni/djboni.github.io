@@ -1,0 +1,5 @@
+# Site wide configuration
+
+title: Djones A. Boni
+locale: pt_BR
+theme: jekyll-theme-cayman
